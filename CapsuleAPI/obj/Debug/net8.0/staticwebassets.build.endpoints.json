@@ -1,0 +1,1974 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.6sjo748xzr.png",
+      "AssetFile": "images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:28:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6sjo748xzr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png",
+      "AssetFile": "images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:28:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:50:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:50:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:35:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:35:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:37:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:37:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png",
+      "AssetFile": "images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fSCSwiCYozFQJkG7IfsJ2JJ3+gtieEm+0mkPr1/gfP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 06:20:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fSCSwiCYozFQJkG7IfsJ2JJ3+gtieEm+0mkPr1/gfP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.pxo9i6lvkh.png",
+      "AssetFile": "images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fSCSwiCYozFQJkG7IfsJ2JJ3+gtieEm+0mkPr1/gfP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 06:20:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxo9i6lvkh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fSCSwiCYozFQJkG7IfsJ2JJ3+gtieEm+0mkPr1/gfP4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.07xumrn4y6.png",
+      "AssetFile": "images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:15:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "07xumrn4y6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png",
+      "AssetFile": "images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:15:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.pmal7icwo1.png",
+      "AssetFile": "images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:28:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmal7icwo1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png",
+      "AssetFile": "images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:28:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.pmal7icwo1.png",
+      "AssetFile": "images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 06:35:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmal7icwo1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png",
+      "AssetFile": "images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 06:35:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.lmushnnlr7.png",
+      "AssetFile": "images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 07:49:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lmushnnlr7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png",
+      "AssetFile": "images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 07:49:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:45:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:45:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.6sjo748xzr.png",
+      "AssetFile": "images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:26:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6sjo748xzr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png",
+      "AssetFile": "images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:26:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:37:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:37:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.6jspa3j9ji.png",
+      "AssetFile": "images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 03:55:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6jspa3j9ji"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png",
+      "AssetFile": "images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 03:55:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:36:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:36:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.07xumrn4y6.png",
+      "AssetFile": "images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:15:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "07xumrn4y6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png",
+      "AssetFile": "images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:15:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:46:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:46:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:13:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:13:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.6sjo748xzr.png",
+      "AssetFile": "images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:26:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6sjo748xzr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png",
+      "AssetFile": "images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:26:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:08:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:08:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.pmal7icwo1.png",
+      "AssetFile": "images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:30:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmal7icwo1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png",
+      "AssetFile": "images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:30:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "AssetFile": "images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:45:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg",
+      "AssetFile": "images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 05:45:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzcxvlpdae"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/IMG_20250422_085955.a446nmlklb.jpg",
+      "AssetFile": "uploads/IMG_20250422_085955.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "479275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo+3SMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:47:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a446nmlklb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo+3SMY="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/IMG_20250422_085955.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/IMG_20250422_085955.jpg",
+      "AssetFile": "uploads/IMG_20250422_085955.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "479275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo+3SMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:47:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo+3SMY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Image20250502111847.6jspa3j9ji.png",
+      "AssetFile": "uploads/Image20250502111847.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 03:20:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6jspa3j9ji"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Image20250502111847.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Image20250502111847.png",
+      "AssetFile": "uploads/Image20250502111847.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 03:20:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/logo_raw.lmushnnlr7.png",
+      "AssetFile": "uploads/logo_raw.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 03:16:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lmushnnlr7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/logo_raw.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/logo_raw.png",
+      "AssetFile": "uploads/logo_raw.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 03:16:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y="
+        }
+      ]
+    }
+  ]
+}

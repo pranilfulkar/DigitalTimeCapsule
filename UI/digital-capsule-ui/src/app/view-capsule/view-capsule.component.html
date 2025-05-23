@@ -1,0 +1,146 @@
+<div class="parent-container"> 
+  
+<div class="example-container mat-elevation-z8">
+  <mat-form-field appearance="outline" class="search-form-field">
+    <mat-label>Search by title, status...</mat-label>
+    <input matInput placeholder="Search by title, status, or unlock date" [(ngModel)]="searchTerm" (ngModelChange)="onSearchChange()">
+    <mat-icon matSuffix>search</mat-icon>
+  </mat-form-field>
+
+  <div class="example-loading-shade" *ngIf="isLoadingResults || isRateLimitReached">
+    <mat-spinner *ngIf="isLoadingResults"></mat-spinner>
+    <div *ngIf="isRateLimitReached" class="example-rate-limit-reached">
+      API rate limit reached. Please try again later.
+    </div>
+  </div>
+
+  <div class="error" *ngIf="errorMessage && !isLoadingResults && !isRateLimitReached">
+    {{ errorMessage }}
+  </div>
+
+  <div class="example-table-container">
+    <table mat-table [dataSource]="dataSource" multiTemplateDataRows matSort
+           matSortActive="unlockDate" matSortDirection="desc" matSortDisableClear
+           class="mat-table">
+      <ng-container matColumnDef="title">
+        <th mat-header-cell *matHeaderCellDef aria-label="Sort by title">Title</th>
+        <td mat-cell *matCellDef="let capsule">{{ capsule.title }}</td>
+      </ng-container>
+      <ng-container matColumnDef="createdAt">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header aria-label="Sort by creation date">Created At</th>
+      <td mat-cell *matCellDef="let capsule">{{ capsule.createdAt | date:'mediumDate' }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="status">
+        <th mat-header-cell *matHeaderCellDef>Status</th>
+        <td mat-cell *matCellDef="let capsule">
+          <mat-chip [color]="getChipColor(capsule.status)" [ngClass]="capsule.status">{{ capsule.status }}</mat-chip>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="unlockDate">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header disableClear aria-label="Sort by unlock date">Unlock Date</th>
+        <td mat-cell *matCellDef="let capsule">
+          @if (capsule.status === 'unsealed') {
+            <span>Capsule not yet sealed</span>
+          } @else {
+            {{ capsule.unlockDate | date:'mediumDate' }}
+          }
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="actions">
+        <th mat-header-cell *matHeaderCellDef>Actions</th>
+        <td mat-cell *matCellDef="let capsule">
+          <button mat-icon-button (click)="toggleRow(capsule)">
+            <mat-icon>{{ expandedElement === capsule ? 'expand_less' : 'expand_more' }}</mat-icon>
+          </button>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="expandedDetail">
+        <td mat-cell *matCellDef="let capsule" [attr.colspan]="displayedColumns.length">
+          <div class="detail-box" [@detailExpand]="capsule === expandedElement ? 'expanded' : 'collapsed'">
+            @if (capsule.status !== 'sealed') {
+              <p><strong>Description:</strong> {{ capsule.description }}</p>
+              <img *ngIf="capsule.image" [src]="capsule.image" alt="{{ capsule.title }}" class="mat-card-image" />
+              <p><strong>Content:</strong> {{ capsule.content }}</p>
+              <div *ngIf="capsule.contributions && capsule.contributions.length > 0">
+                <h4>Contributions:</h4>
+                <div *ngFor="let contribution of capsule.contributions" class="contribution-entry">
+                  <p><strong>Contributor:</strong> {{ contribution.collaboratorEmail || 'Anonymous' }}</p>
+                  <p><strong>Text:</strong> {{ contribution.textContent || 'No text provided' }}</p>
+                  <img *ngIf="contribution.imageUrl" [src]="getImageUrl(contribution.imageUrl)" alt="Contribution Image"
+                       class="contribution-image" (click)="openImageDialog(contribution.imageUrl)" style="cursor: pointer;" />
+                  <p><small>Contributed on: {{ contribution.createdAt | date: 'mediumDate' }}</small></p>
+                  <mat-divider></mat-divider>
+                </div>
+              </div>
+              <div *ngIf="!capsule.contributions || capsule.contributions.length === 0">
+                <p>No contributions yet.</p>
+              </div>
+
+              <button mat-button (click)="toggleCollaboratorForm(capsule.id)" *ngIf="capsule.status === 'unsealed'">Add Collaborator</button>
+              <div *ngIf="collaboratorFormVisible[capsule.id]">
+                <mat-form-field appearance="outline">
+                  <mat-label>Collaborator Email</mat-label>
+                  <input matInput [formControl]="collaboratorEmail" placeholder="Enter collaborator's email"
+                         (keyup.enter)="addCollaborator(capsule.id)">
+                  <mat-error *ngIf="collaboratorEmail.hasError('required')">Email is required</mat-error>
+                  <mat-error *ngIf="collaboratorEmail.hasError('email')">Please enter a valid email</mat-error>
+                </mat-form-field>
+                <button mat-button (click)="addCollaborator(capsule.id)" [disabled]="collaboratorEmail.invalid">Add Collaborator</button>
+                <button mat-button (click)="toggleCollaboratorForm(capsule.id)">Cancel</button>
+              </div>
+
+              <button mat-button (click)="toggleContributionForm(capsule.id)" *ngIf="capsule.status === 'unsealed'">Add Contribution</button>
+              <div *ngIf="contributionFormVisible[capsule.id]" class="contribution-form">
+                <mat-form-field appearance="outline">
+                  <mat-label>Contribution Text</mat-label>
+                  <textarea matInput placeholder="Message" [(ngModel)]="contributionText"></textarea>
+                </mat-form-field>
+                <input type="file" (change)="onFileSelected($event)" accept="image/*" />
+                <button mat-stroked-button color="accent" (click)="addContribution(capsule.id)" [disabled]="!contributionText">Submit</button>
+              </div>
+
+              <button mat-button color="warn" (click)="openSealDialog(capsule.id)" *ngIf="capsule.status === 'unsealed'">Seal Capsule</button>
+            } @else {
+              <p class="sealed-message">This capsule is sealed. Contents will be revealed on {{ capsule.unlockDate | date:'mediumDate' }}</p>
+            }
+          </div>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <!-- Wrap mat-row in ng-container to avoid multiple structural directives -->
+      <ng-container *ngIf="!isLoadingResults && !errorMessage && dataSource.data.length > 0">
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;" class="element-row"></tr>
+        <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="detail-row"></tr>
+      </ng-container>
+    </table>
+
+    <div class="no-data" *ngIf="!isLoadingResults && !isRateLimitReached && !errorMessage && dataSource.data.length === 0">
+      No capsules found.
+    </div>
+  </div>
+
+  <mat-paginator [length]="resultsLength" [pageSize]="10" [pageSizeOptions]="[5, 10, 20]"
+                 aria-label="Select page of capsules"></mat-paginator>
+</div>
+
+<ng-template #sealDialog>
+  <h2 mat-dialog-title>Seal Capsule</h2>
+  <mat-dialog-content>
+    <mat-form-field appearance="outline">
+      <mat-label>Unlock Date</mat-label>
+      <input matInput [matDatepicker]="picker" [(ngModel)]="sealDate" required />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+  </mat-dialog-content>
+  <mat-dialog-actions>
+    <button mat-button (click)="closeSealDialog()">Cancel</button>
+    <button mat-button color="warn" (click)="confirmSeal()" [disabled]="!sealDate || sealDate <= today">Confirm</button>
+  </mat-dialog-actions>
+</ng-template>
+</div>

@@ -1,0 +1,14 @@
+<mat-toolbar class="toolbar">
+  <span class="title">Digital Time Capsule</span>
+  <span class="spacer"></span>
+  <ng-container *ngIf="isLoggedIn; else notLoggedIn">
+    <mat-icon>badge</mat-icon>
+    <span class="username">{{ username }}</span>
+    <button mat-button class="logout-button" (click)="logout()">Logout</button>
+  </ng-container>
+  <ng-template #notLoggedIn>
+    <button mat-raised-button routerLink="/login">Login</button>
+    <button mat-flat-button routerLink="/register">Register</button>
+  </ng-template>
+</mat-toolbar>
+<router-outlet></router-outlet>

@@ -1,0 +1,40 @@
+.create-container{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  min-height: 100vh;
+  background-image: url('../../../public/GettyImages-1481304976-e1703052344395.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-right: 2rem;
+  padding-top: 5rem;
+  overflow-y: auto;
+}
+mat-card {
+  max-width: 700px;
+  margin: 6rem auto 3rem auto; /* Increased top margin to 6rem */
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  background-color: #fafafa;
+}
+
+mat-card-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3f51b5;
+  margin-bottom: 1rem;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.seal-section {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px dashed #ccc;
+}

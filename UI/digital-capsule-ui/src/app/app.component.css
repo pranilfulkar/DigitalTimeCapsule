@@ -1,0 +1,46 @@
+.toolbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 0 16px;
+  background: linear-gradient(90deg, #1976D2, #42A5F5); 
+}
+
+.title {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5rem;
+  color: #FFFFFF; 
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.username {
+  margin-right: 1rem;
+  font-size: 0.9rem;
+  color: #FFFFFF; 
+  font-weight: 400;
+  line-height: normal;
+  align-self: center;
+}
+
+button[mat-raised-button], button[mat-flat-button] {
+  margin-left: 8px;
+  background-color: #1565C0; 
+  color: #FFFFFF;
+  align-items: center;
+}
+
+.logout-button {
+  background: linear-gradient(90deg, #1565C0, #1976D2); 
+  color: #FFFFFF;
+  transition: background 0.3s ease;
+}
+
+.logout-button:hover {
+  background: linear-gradient(90deg, #104D8E, #1565C0); 
+}

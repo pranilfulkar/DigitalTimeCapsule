@@ -1,0 +1,9 @@
+<div class="image-dialog-container">
+      <h2 mat-dialog-title>View Image</h2>
+      <mat-dialog-content>
+        <img [src]="data.imageUrl" alt="Enlarged Contribution Image" class="enlarged-image" />
+      </mat-dialog-content>
+      <mat-dialog-actions>
+        <button mat-button color="primary" (click)="closeDialog()">Close</button>
+      </mat-dialog-actions>
+    </div>

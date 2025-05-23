@@ -1,0 +1,28 @@
+<div class="create-container">
+<mat-card>
+  <mat-card-title>Create New Capsule</mat-card-title>
+
+  <form (ngSubmit)="onSubmit(capsuleForm)" #capsuleForm="ngForm" enctype="multipart/form-data">
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Title</mat-label>
+      <input matInput name="title" [(ngModel)]="capsule.title" required>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Description</mat-label>
+      <textarea matInput name="description" [(ngModel)]="capsule.description" required></textarea>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Content/Message</mat-label>
+      <textarea matInput name="content" [(ngModel)]="capsule.content"></textarea>
+    </mat-form-field>
+
+    <input type="file" (change)="onFileSelected($event)" accept="image/*" required>
+
+    <button mat-raised-button color="primary" type="submit">Save Capsule</button>
+
+  
+  </form>
+</mat-card>
+</div>

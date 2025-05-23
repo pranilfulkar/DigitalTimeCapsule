@@ -1,0 +1,38 @@
+<div class = "dash-image">
+<div class="dashboard-container">
+  <div class="header-section">
+    <h1>Welcome!</h1>
+    <p class="subtitle">Seal your memories and unlock them in the future</p>
+  </div>
+
+  <div class="capsule-actions">
+    <mat-card class="action-card" (click)="navigateToCreateCapsule()">
+      <mat-card-header>
+        <mat-icon matCardAvatar class="card-icon">add_circle</mat-icon>
+        <mat-card-title>Create a New Capsule</mat-card-title>
+      </mat-card-header>
+      <img mat-card-image src="https://www.bigfootdigital.co.uk/wp-content/uploads/2020/07/image-optimisation-scaled.jpg" alt="Create Capsule">
+      <mat-card-content>
+        <p>Capture your moments with text, images, and more. Set a future date to unlock your memories.</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-raised-button color="accent">Create Now</button>
+      </mat-card-actions>
+    </mat-card>
+
+    <mat-card class="action-card" (click)="navigateToViewCapsules()">
+      <mat-card-header>
+        <mat-icon matCardAvatar class="card-icon">history</mat-icon>
+        <mat-card-title>View Your Capsules</mat-card-title>
+      </mat-card-header>
+      <img mat-card-image src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="View Capsules">
+      <mat-card-content>
+        <p>Explore your sealed capsules and check their unlock dates.</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-raised-button color="primary">View Capsules</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>
+</div>

@@ -1,0 +1,436 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6sjo748xzr</Fingerprint>
+      <Integrity>2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pxo9i6lvkh</Fingerprint>
+      <Integrity>fSCSwiCYozFQJkG7IfsJ2JJ3+gtieEm+0mkPr1/gfP4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>07xumrn4y6</Fingerprint>
+      <Integrity>dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pmal7icwo1</Fingerprint>
+      <Integrity>EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pmal7icwo1</Fingerprint>
+      <Integrity>EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lmushnnlr7</Fingerprint>
+      <Integrity>81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6sjo748xzr</Fingerprint>
+      <Integrity>2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6jspa3j9ji</Fingerprint>
+      <Integrity>Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\a26d30c1-da40-488b-b977-0518b866ebe0_github.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>07xumrn4y6</Fingerprint>
+      <Integrity>dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0+e1MtPDcf4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\a26d30c1-da40-488b-b977-0518b866ebe0_github.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6sjo748xzr</Fingerprint>
+      <Integrity>2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pmal7icwo1</Fingerprint>
+      <Integrity>EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xzcxvlpdae</Fingerprint>
+      <Integrity>83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Image20250502111847.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>uploads/Image20250502111847.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6jspa3j9ji</Fingerprint>
+      <Integrity>Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY+p81DdI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Image20250502111847.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\IMG_20250422_085955.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>uploads/IMG_20250422_085955.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a446nmlklb</Fingerprint>
+      <Integrity>WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo+3SMY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\IMG_20250422_085955.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo_raw.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CapsuleAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CapsuleAPI</BasePath>
+      <RelativePath>uploads/logo_raw.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lmushnnlr7</Fingerprint>
+      <Integrity>81gWtfqJeQvW8p5w3GNuWGsU+uZ+6SdOQOALfeAmT/Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo_raw.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

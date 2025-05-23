@@ -1,0 +1,292 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.6sjo748xzr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6sjo748xzr"},{"Name":"integrity","Value":"sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10268"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:28:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\03eeebc3-e70b-4ffb-9f3c-bbc3203c3ba5_brightness.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10268"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:28:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:50:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/15c7fea4-9a33-4a4a-a379-6a4d99708d41_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:50:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:35:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/18b7864c-2da0-47ab-98a1-1d7772fb5303_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:35:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:37:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/25d2e8ad-88a7-4855-9db2-77853e354076_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:37:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fSCSwiCYozFQJkG7IfsJ2JJ3\u002BgtieEm\u002B0mkPr1/gfP4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44182"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fSCSwiCYozFQJkG7IfsJ2JJ3\u002BgtieEm\u002B0mkPr1/gfP4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 06:20:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.pxo9i6lvkh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pxo9i6lvkh"},{"Name":"integrity","Value":"sha256-fSCSwiCYozFQJkG7IfsJ2JJ3\u002BgtieEm\u002B0mkPr1/gfP4="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/4a0b1625-0571-4d72-abb4-9571e65c1771_Screenshot 2025-05-13 121157.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44182"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fSCSwiCYozFQJkG7IfsJ2JJ3\u002BgtieEm\u002B0mkPr1/gfP4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 06:20:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.07xumrn4y6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"07xumrn4y6"},{"Name":"integrity","Value":"sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14902"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:15:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\503ab4bf-bb49-4357-9f24-f1e95f3fa6c5_github.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14902"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:15:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.pmal7icwo1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pmal7icwo1"},{"Name":"integrity","Value":"sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"91972"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 04:28:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5082e58d-a03d-47c1-a528-6df13b0a801e_Screenshot 2025-05-14 150034.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"91972"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 04:28:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.pmal7icwo1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pmal7icwo1"},{"Name":"integrity","Value":"sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"91972"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 06:35:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53294069-7f4c-425b-8c7a-ea239273a285_Screenshot 2025-05-14 150034.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"91972"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 06:35:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.lmushnnlr7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lmushnnlr7"},{"Name":"integrity","Value":"sha256-81gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002281gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 07:49:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\53f72dcd-48fd-4703-a254-0005a8e526e0_logo_raw.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-81gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002281gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 07:49:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:45:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/593f0e7d-69df-4ef7-b169-a9aa4b25c893_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:45:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.6sjo748xzr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6sjo748xzr"},{"Name":"integrity","Value":"sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10268"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:26:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\5f1cc2f8-2900-44b9-b96f-15f5ae7481e1_brightness.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10268"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:26:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:37:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/887a306e-0e15-4505-b3a4-75359e0b2512_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:37:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.6jspa3j9ji.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6jspa3j9ji"},{"Name":"integrity","Value":"sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101223"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 03:55:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\906b368e-de4c-4290-9b7b-3e11576216ac_Image20250502111847.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"101223"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 03:55:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:36:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/923e70a5-4c52-4bdf-abb2-6fa64113f7b8_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:36:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.07xumrn4y6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\a26d30c1-da40-488b-b977-0518b866ebe0_github.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"07xumrn4y6"},{"Name":"integrity","Value":"sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14902"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:15:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/a26d30c1-da40-488b-b977-0518b866ebe0_github.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\a26d30c1-da40-488b-b977-0518b866ebe0_github.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14902"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dGqZxy6nkQSjaB6YdqQ0omEQvp2xKUIZ0\u002Be1MtPDcf4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:15:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:46:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/b5dee21f-a91b-4064-b679-472ae12a175d_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:46:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 10:13:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/c70ee344-b9d0-405a-8a3f-ad82749bbc2d_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 10:13:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.6sjo748xzr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6sjo748xzr"},{"Name":"integrity","Value":"sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10268"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e084479e-20d4-4aea-8f7c-c8f2e6f6002d_brightness.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10268"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222s6SqJlnk5f4qYnXpXjPxAgq7vRaQUqN4VueFgSkjq4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 09:26:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:08:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/e3ebf80e-2255-48a0-a866-f8aa3ff0e30e_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:08:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.pmal7icwo1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pmal7icwo1"},{"Name":"integrity","Value":"sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"91972"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 04:30:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f59040ea-88ee-48e1-9752-cdb4fa62d4d0_Screenshot 2025-05-14 150034.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"91972"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022EdiK9IJBVItaOIoXSqvq3ZlXFc5BqK9ChJb5dSA2Z5s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 04:30:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:45:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.xzcxvlpdae.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\capsules\f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a 'Digital Time Capsule' app. The scene shows a fut.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzcxvlpdae"},{"Name":"integrity","Value":"sha256-83w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk="},{"Name":"label","Value":"_content/CapsuleAPI/images/capsules/f8a168bf-7981-47f0-b9bd-4e83686a9ac9_A visually captivating homepage illustration for a \u0027Digital Time Capsule\u0027 app. The scene shows a fut.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002283w6pmAPJl6FCvigPkx5AH/hJHF8KsyHDPRQiIW0BUk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 05:45:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/uploads/Image20250502111847.6jspa3j9ji.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Image20250502111847.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6jspa3j9ji"},{"Name":"integrity","Value":"sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI="},{"Name":"label","Value":"_content/CapsuleAPI/uploads/Image20250502111847.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101223"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 03:20:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/uploads/Image20250502111847.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Image20250502111847.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"101223"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Tv0jTTV9kImDYCHGulWrKzaZ60pFWSF7WMXY\u002Bp81DdI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 03:20:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/uploads/IMG_20250422_085955.a446nmlklb.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\IMG_20250422_085955.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a446nmlklb"},{"Name":"integrity","Value":"sha256-WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo\u002B3SMY="},{"Name":"label","Value":"_content/CapsuleAPI/uploads/IMG_20250422_085955.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"479275"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo\u002B3SMY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 11:47:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/uploads/IMG_20250422_085955.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\IMG_20250422_085955.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo\u002B3SMY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"479275"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WjlmtqjiPbltYZHBz555sCyH5KZvIERa3IQEAo\u002B3SMY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 11:47:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/uploads/logo_raw.lmushnnlr7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo_raw.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lmushnnlr7"},{"Name":"integrity","Value":"sha256-81gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y="},{"Name":"label","Value":"_content/CapsuleAPI/uploads/logo_raw.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002281gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 03:16:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CapsuleAPI/uploads/logo_raw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo_raw.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-81gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002281gWtfqJeQvW8p5w3GNuWGsU\u002BuZ\u002B6SdOQOALfeAmT/Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 03:16:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

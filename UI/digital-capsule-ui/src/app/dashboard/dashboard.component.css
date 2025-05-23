@@ -1,0 +1,60 @@
+.dash-image{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-height: 100vh;
+  background-image:url('../../../public/GettyImages-1481304976-e1703052344395.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-right: 2rem;
+}
+.dashboard-container {
+  max-width: 1200px;
+  margin: 6rem auto 3rem auto; 
+  padding: 0 16px;
+
+}
+
+.header-section {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header-section h1 {
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.capsule-actions {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.action-card {
+  max-width: 400px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.action-card:hover {
+  transform: scale(1.02);
+}
+
+.card-icon {
+  font-size: 40px;
+  height: 40px;
+  width: 40px;
+}
+
+mat-card-image {
+  height: 200px;
+  object-fit: cover;
+}
